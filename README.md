@@ -313,4 +313,4 @@ Distributed under the MIT License. _See [LICENSE.md](./LICENSE) for more informa
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* Splash Photo by <a class="nhsuk-footer__list-item-link" href="https://unsplash.com/@cdr6934?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Chris Ried</a>
+* Splash Photo by <a class="nhsuk-footer__list-item-link" href="https://unsplash.com/@chrisliverani?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Chris Liverani</a> on <a class="nhsuk-footer__list-item-link" href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
