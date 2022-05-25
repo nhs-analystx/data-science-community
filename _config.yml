@@ -1,13 +1,13 @@
 # Edit these site settings
 # ------------------------------------------
 title:             NHS Data Science Community
-email:             craig.shenton@nhs.net
-author:            Craig Robert Shenton
+email:             heu.analystx@nhs.net
+author:            NHS Data Science Community
 description:       "Welcome to the NHS Data Science Community for Health and Care"
 url:               "https://craig-shenton.github.io/"
 baseurl:           "nhs-data-science-community/"
 github_username:   craig-shenton
-linkedin_username: craigrshenton
+linkedin_username: 
 date_format:       "%b %-d, %Y"
 # ------------------------------------------
 
