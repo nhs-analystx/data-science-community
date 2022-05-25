@@ -1,11 +1,11 @@
 # Edit these site settings
 # ------------------------------------------
-title:             nhsuk-static-jekyll
+title:             NHS Data Science Community
 email:             craig.shenton@nhs.net
 author:            Craig Robert Shenton
-description:       "Static Jekyll implementation of the NHS.UK service manual "
+description:       "Welcome to the NHS Data Science Community for Health and Care"
 url:               "https://craig-shenton.github.io/"
-baseurl:           "nhsuk-static-jekyll/"
+baseurl:           "nhs-data-science-community/"
 github_username:   craig-shenton
 linkedin_username: craigrshenton
 date_format:       "%b %-d, %Y"
