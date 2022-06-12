@@ -24,38 +24,38 @@ Currently, we may get asked individually, or not at all, to contribute to the de
 Data Science projects
 -	Analytics tools, software and platforms 
 -	Workforce, for example:
-  -	Training and development for existing colleagues
-  -	Workforce planning, e.g. attraction and retention
+    -	Training and development for existing colleagues
+    -	Workforce planning, e.g. attraction and retention
 
 A data science assembly would allow us to collaboratively contribute to these developments with a stronger and more consistent voice, to ensure the requirements of data science and R&D are an appropriate part of future plans. We can also share the load between us.
 
 ### Who will be in it?
 
 Members will be from teams contracted to work for NHSE/I, with enthusiasm and experience in Data Science and innovative analytics. This includes:
--	Giuseppe Sollazzo - AI Skunkworks, NHSX, NHSE/I
--	Jennifer Hall - AI Skunkworks, NHSX, NHSE/I
--	Matthew Cooper - AI Skunkworks, NHSX, NHSE/I
--	Amadeus Stevenson - AI Skunkworks, NHSX, NHSE/I
--	Ed Kendall - Data Science Hub, CDAO, NHSE/I
--	Achut Manandhar - Data Science Hub, CDAO, NHSE/I
--	Svetlana Batrakova - Data Science Hub,CDAO, NHSE/I
--	Chris Mainey - Patient Safety, NHSE/I
--	Sarah Culkin - Analytics Unit, NHSX, NHSE/I
--	Jonny Pearson - Analytics Unit, NHSX, NHSE/I
--	Dan Schofield - Analytics Unit, NHSX, NHSE/I
--	Paul Carroll - Analytics Unit, NHSX, NHSE/I
--	Rupert Chaplain - Data Science Team, NHS D
--	Jonathan Hope	- Data Science Team, NHS D
--	Mohammed Absar - Direct Commissioning & Medical Directorate - London Region, NHSE/I
+-	**Giuseppe Sollazzo** - AI Skunkworks, NHSX, NHSE/I
+-	**Jennifer Hall** - AI Skunkworks, NHSX, NHSE/I
+-	**Matthew Cooper** - AI Skunkworks, NHSX, NHSE/I
+-	**Amadeus Stevenson** - AI Skunkworks, NHSX, NHSE/I
+-	**Ed Kendall** - Data Science Hub, CDAO, NHSE/I
+-	**Achut Manandhar** - Data Science Hub, CDAO, NHSE/I
+-	**Svetlana Batrakova** - Data Science Hub,CDAO, NHSE/I
+-	**Chris Mainey** - Patient Safety, NHSE/I
+-	**Sarah Culkin** - Analytics Unit, NHSX, NHSE/I
+-	**Jonny Pearson** - Analytics Unit, NHSX, NHSE/I
+-	**Dan Schofield** - Analytics Unit, NHSX, NHSE/I
+-	**Paul Carroll** - Analytics Unit, NHSX, NHSE/I
+-	**Rupert Chaplain** - Data Science Team, NHS D
+-	**Jonathan Hope**	- Data Science Team, NHS D
+-	**Mohammed Absar** - Direct Commissioning & Medical Directorate - London Region, NHSE/I
 
 ### What will it do?
 Collectively represent the R&D analytics and data science community in NHSE/I (including NHSX &D), including:
--	develop tech stack needs; open source, security, flexibility for R&R, separate to, but interoperable with operational platform (e.g. Foundry)
+-	Develop tech stack needs; open source, security, flexibility for R&R, separate to, but interoperable with operational platform (e.g. Foundry)
 -	IG challenges going from R&D to device
--	role in education others such as IG on what AI is going
--	be a centre of excellence 
--	working together with the Data Science Hub to develop capability across NHSE/I
--	share our work being undertaken in the R&D space
+-	Role in education others such as IG on what AI is going
+-	Be a centre of excellence 
+-	Working together with the Data Science Hub to develop capability across NHSE/I
+-	Share our work being undertaken in the R&D space
 
 ### How will it do this?
 -	Communication of our existence and role to key stakeholders
