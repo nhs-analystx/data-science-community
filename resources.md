@@ -20,7 +20,7 @@ A number of blogs have been created and available to read on the [AnalystX works
             <img class="nhsuk-card__img" src="assets/img/links/slack-min.png" alt="NHS Data Science Community Slack">
             <div class="nhsuk-card__content">
                 <h2 class="nhsuk-card__heading nhsuk-heading-m">
-                    <a class="nhsuk-card__link" href="https://join.slack.com/"> Slack channel</a>
+                    <a class="nhsuk-card__link" href="https://join.slack.com/t/heudatascienc-zwx3244/shared_invite/zt-1apd9bt02-T8R~Fi9d5lTiSXtXlhs2dw"> Slack channel</a>
                 </h2>
                 <p>Join us on Slack to chat to the community or ask us your questions.</p>
             </div>
