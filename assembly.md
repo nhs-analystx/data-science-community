@@ -7,13 +7,13 @@ title: Data Science Assembly
 
 ### What is it?
 
-A group that represents those working in novel data science (both R&D and operational) in NHSE/I (inc NHSX and NHSD). For example, those that are involved in blue-sky research and trialling novel approaches to data science and analytics, rather than performing operational analytics with an immediate business need. We are not proposing to alter existing day-to-day working processes, rather be a group that can represent the requirements and interests of its data scientists. Our role would include (but not be limited to) things like:
+A group that represents those working in novel data science (both R&D and operational) in NHSE/I* (inc NHSTD* and NHSD*). For example, those that are involved in blue-sky research and trialling novel approaches to data science and analytics, rather than performing operational analytics with an immediate business need. We are not proposing to alter existing day-to-day working processes, rather be a group that can represent the requirements and interests of its data scientists. Our role would include (but not be limited to) things like:
 -	A forum to collect requirements and views
 -	Educate others, advocate for data science
 
 #### Why do we need it?
-1.	Currently R&D analytics and data science occurs in pockets throughout NHSE/I (for example, the NHSX AI skunkworks, the innovative analytics team with the NHSX Analytics Unit and the data science team in NHSE/I).  This is in contrast to the more centralised processes for operational analytics that occur within, for example, the CDAO directorate in NHSE/I.
-2.	Currently, the platforms are not set-up to allow easy NHSEI-NHSX collaboration (primarily flow of data and codes but also tooling, etc.). We need a better understanding of if/how folks currently collaborate and a roadmap to enable easy (but secure) collaboration.
+1.	Currently R&D analytics and data science occurs in pockets throughout NHSE/I (for example, the NHSTD AI skunkworks, the innovative analytics team with the NHSTD Analytics Unit and the data science team in NHSE/I).  This is in contrast to the more centralised processes for operational analytics that occur within, for example, the CDAO directorate in NHSE/I.
+2.	Currently, the platforms are not set-up to allow easy NHSE/I-NHSTD collaboration (primarily flow of data and codes but also tooling, etc.). We need a better understanding of if/how folks currently collaborate and a roadmap to enable easy (but secure) collaboration.
 
 However, representation from a strong and recognised Data Science function is important, to ensure novel approaches and techniques can feed into operational analytics, AI and beyond. In addition to experimenting/filtering R&D projects and recommending successful ones to operational analytics, we can provide important guidance/reference to the operational team in terms of the latest tech (e.g. algorithms/approaches, tools, tech stack, etc.)
 
@@ -32,24 +32,24 @@ A data science assembly would allow us to collaboratively contribute to these de
 ### Who will be in it?
 
 Members will be from teams contracted to work for NHSE/I, with enthusiasm and experience in Data Science and innovative analytics. This includes:
--	**Giuseppe Sollazzo** - AI Skunkworks, NHSX, NHSE/I
--	**Jennifer Hall** - AI Skunkworks, NHSX, NHSE/I
--	**Matthew Cooper** - AI Skunkworks, NHSX, NHSE/I
--	**Amadeus Stevenson** - AI Skunkworks, NHSX, NHSE/I
+-	**Giuseppe Sollazzo** - AI Skunkworks, NHSTD, NHSE/I
+-	**Jennifer Hall** - AI Imaging, NHSTD, NHSE/I
+-	**Matthew Cooper** - AI Skunkworks, NHSTD, NHSE/I
+-	**Amadeus Stevenson** - AI Skunkworks, NHSTD, NHSE/I
 -	**Ed Kendall** - Data Science Hub, CDAO, NHSE/I
 -	**Achut Manandhar** - Data Science Hub, CDAO, NHSE/I
 -	**Svetlana Batrakova** - Data Science Hub,CDAO, NHSE/I
 -	**Chris Mainey** - Patient Safety, NHSE/I
--	**Sarah Culkin** - Analytics Unit, NHSX, NHSE/I
--	**Jonny Pearson** - Analytics Unit, NHSX, NHSE/I
--	**Dan Schofield** - Analytics Unit, NHSX, NHSE/I
--	**Paul Carroll** - Analytics Unit, NHSX, NHSE/I
--	**Rupert Chaplain** - Data Science Team, NHS D
--	**Jonathan Hope**	- Data Science Team, NHS D
+-	**Sarah Culkin** - Analytics Unit, NHSTD, NHSE/I
+-	**Jonny Pearson** - Analytics Unit, NHSTD, NHSE/I
+-	**Dan Schofield** - Analytics Unit, NHSTD, NHSE/I
+-	**Paul Carroll** - Analytics Unit, NHSTD, NHSE/I
+-	**Rupert Chaplain** - Data Science Team, NHSD
+-	**Jonathan Hope**	- Data Science Team, NHSD
 -	**Mohammed Absar** - Direct Commissioning & Medical Directorate - London Region, NHSE/I
 
 ### What will it do?
-Collectively represent the R&D analytics and data science community in NHSE/I (including NHSX &D), including:
+Collectively represent the R&D analytics and data science community in NHSE/I (including NHSTD & NHSD), including:
 -	Develop tech stack needs; open source, security, flexibility for R&R, separate to, but interoperable with operational platform (e.g. Foundry)
 -	IG challenges going from R&D to device
 -	Role in education others such as IG on what AI is going
@@ -68,5 +68,8 @@ Collectively represent the R&D analytics and data science community in NHSE/I (i
 - A formal organisation with secretariat and admin function
 - A team from which projects and data science outputs are commissioned (this would still happen in separate teams)
 
-
-
+*Acronym|Expansion
+---|---
+NHSE/I|NHS England & Improvement
+NHSTD|NHS Transformation Directorate, formerly NHSX
+NHSD|NHS Digital
