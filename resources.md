@@ -11,7 +11,7 @@ A number of blogs have been created and available to read on the [AnalystX works
 
 - [Machine learning navigator](https://future.nhs.uk/DataAnalytics/view?objectID=26103568)
 - [Analytics learning exchange](https://future.nhs.uk/DataAnalytics/view?objectID=26656560)
-- [NHSE Huddles](https://future.nhs.uk/DataAnalytics/view?objectId=26452496)
+- [AnalystX Huddles](https://future.nhs.uk/DataAnalytics/view?objectId=26452496)
 - [Skills Development Network](https://www.skillsdevelopmentnetwork.com/home)
 
 <ul class="nhsuk-grid-row nhsuk-card-group">
