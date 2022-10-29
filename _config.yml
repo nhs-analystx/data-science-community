@@ -5,7 +5,7 @@ email:             heu.analystx@nhs.net
 author:            NHS Data Science Community
 description:       "Welcome to the NHS Data Science Community for Health and Care"
 url:               "http://analystx.uk"
-baseurl:           "data-science-community/"
+baseurl:           "data-science-community"
 github_username:   nhs-analystx
 linkedin_username: 
 date_format:       "%b %-d, %Y"
