@@ -9,7 +9,7 @@ A number of blogs have been created and available to read on the [AnalystX works
 
 ## Links
 
-- [Machine learning navigator](https://future.nhs.uk/DataAnalytics/view?objectID=26103568)
+
 - [Analytics learning exchange](https://future.nhs.uk/DataAnalytics/view?objectID=26656560)
 - [AnalystX Huddles](https://future.nhs.uk/DataAnalytics/view?objectId=26452496)
 - [Skills Development Network](https://www.skillsdevelopmentnetwork.com/home)
@@ -17,12 +17,23 @@ A number of blogs have been created and available to read on the [AnalystX works
 <ul class="nhsuk-grid-row nhsuk-card-group">
     <li class="nhsuk-grid-column-one-half nhsuk-card-group__item">
         <div class="nhsuk-card nhsuk-card--clickable">
-            <img class="nhsuk-card__img" src="assets/img/links/slack-min.png" alt="NHS Data Science Community Slack">
+            <img class="nhsuk-card__img" src="assets/img/links/futureNHS.png" alt="FutureNHS">
             <div class="nhsuk-card__content">
                 <h2 class="nhsuk-card__heading nhsuk-heading-m">
-                    <a class="nhsuk-card__link" href="https://join.slack.com/t/heudatascienc-zwx3244/shared_invite/zt-1apd9bt02-T8R~Fi9d5lTiSXtXlhs2dw"> Slack channel</a>
+                    <a class="nhsuk-card__link" href="https://future.nhs.uk/DataAnalytics/view?objectID=26103568">Machine Learning Navigator</a>
                 </h2>
-                <p>Join us on Slack to chat to the community or ask us your questions.</p>
+                <p>Fork repositories on the AnalystX GitHub page.</p>
+            </div>
+        </div>
+    </li>
+        <li class="nhsuk-grid-column-one-half nhsuk-card-group__item">
+        <div class="nhsuk-card nhsuk-card--clickable">
+            <img class="nhsuk-card__img" src="assets/img/links/futureNHS.png" alt="FutureNHS">
+            <div class="nhsuk-card__content">
+                <h2 class="nhsuk-card__heading nhsuk-heading-m">
+                    <a class="nhsuk-card__link" href="https://future.nhs.uk/DataAnalytics/view?objectID=26656560">Analytics Learning Exchange</a>
+                </h2>
+                <p>Fork repositories on the AnalystX GitHub page.</p>
             </div>
         </div>
     </li>
@@ -55,7 +66,7 @@ A number of blogs have been created and available to read on the [AnalystX works
             <img class="nhsuk-card__img" src="assets/img/links/github-min.png" alt="NHS Data Science Community GitHub">
             <div class="nhsuk-card__content">
                 <h2 class="nhsuk-card__heading nhsuk-heading-m">
-                    <a class="nhsuk-card__link" href="https://github.com/nhs-analystx"> GitHub repository</a>
+                    <a class="nhsuk-card__link" href="https://github.com/nhs-analystx/code-sharing"> GitHub repository</a>
                 </h2>
                 <p>Fork repositories on the AnalystX GitHub page.</p>
             </div>
