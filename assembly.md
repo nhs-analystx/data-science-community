@@ -14,9 +14,9 @@ Representation from a strong and recognised Data Science function is important, 
 
 Currently, we may get asked individually, or not at all, to contribute to the development of:  
 <ul>
-<li>•	Data Science projects </li>
-<li>•	Analytics tools, software and platforms</li> 
-<li>•	Workforce, for example training and development for existing colleagues</li>
+<li>Data Science projects </li>
+<li>Analytics tools, software and platforms</li> 
+<li>Workforce, for example training and development for existing colleagues</li>
 </ul>
 The Data Science Assembly allows us to collaboratively contribute to these developments with a stronger and more consistent voice, to ensure the requirements of data science and innovative analytics are an appropriate part of future plans.  
 
@@ -27,22 +27,23 @@ Members are from teams from NHS England and NHS Digital, with enthusiasm and exp
 ### What will it do?
 We collectively represent the innovative analytics and data science community in NHS England and NHS Digital and have a focus on the following areas:  
 <ul>
-  <li>•	Internal tooling and platforms </li>
-  <li>•	Open analytics, such as GitHub use </li>
-  <li>•	Training and events, for example working with AnalystX </li>
-  <li>•	Competency Frameworks</li>
-  <li>•	Involvement in networks and communities such as NHS-R Community and NHS PyCom </li>
+  <li>Internal tooling and platforms </li>
+  <li>Open analytics, such as GitHub use </li>
+  <li>Training and events, for example working with AnalystX </li>
+  <li>Competency Frameworks</li>
+  <li>Involvement in networks and communities such as NHS-R Community and NHS PyCom </li>
+</ul>
 
 ### How do we do this?
 <ul>
-  <li>•	Members form sub-groups and take forward key areas listed above </li>
-  <li>•	We attend key stakeholder meetings </li>
-<li>•	The Data Science Assembly meets regularly to feedback and decide on our collective actions/positions</li>
+  <li>Members form sub-groups and take forward key areas listed above </li>
+  <li>We attend key stakeholder meetings </li>
+  <li>The Data Science Assembly meets regularly to feedback and decide on our collective actions/positions</li>
   </ul>
 
 ### What is it not?
 <ul>
-  <li>•	A team from which projects and data science outputs are commissioned (this still happens in separate teams) </li>
+  <li>A team from which projects and data science outputs are commissioned (this still happens in separate teams) </li>
   </ul>
 
 *Acronym|Expansion
