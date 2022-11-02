@@ -45,9 +45,3 @@ We collectively represent the innovative analytics and data science community in
 <ul>
   <li>A team from which projects and data science outputs are commissioned (this still happens in separate teams) </li>
   </ul>
-
-*Acronym|Expansion
----|---
-NHSE/I|NHS England & Improvement
-NHSTD|NHS Transformation Directorate, formerly NHSX
-NHSD|NHS Digital
